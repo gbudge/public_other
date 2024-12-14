@@ -1,0 +1,30 @@
+products:
+  - category: "Lighting"
+    manufacturer: "AquaIllumination"
+    name: "Prime Freshwater LED"
+    model: "AI-PRIME-FW"
+    wattage: 55
+
+  - category: "Filtration"
+    manufacturer: "Fluval"
+    name: "External Canister Filter"
+    model: "FX6"
+    wattage: 41
+
+  - category: "Heating"
+    manufacturer: "Eheim"
+    name: "ThermoPreset Heater"
+    model: "EHEIM-200W"
+    wattage: 200
+
+  - category: "Circulation"
+    manufacturer: "Hydor"
+    name: "Koralia Circulation Pump"
+    model: "KORALIA-1350"
+    wattage: 7
+
+  - category: "CO2 Systems"
+    manufacturer: "Tropica"
+    name: "CO2 System Nano"
+    model: "TROPICA-CO2-NANO"
+    wattage: 0
